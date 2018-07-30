@@ -1,0 +1,38 @@
+h1,h2,h3,h4,h5,h6 {
+    margin-top:0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color:#149fc4;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.body-container {
+    margin-top:100px;
+}
+
+.subject-row {
+    margin-bottom:60px;
+}
+
+.body-container li {
+    padding-bottom:10px;
+    padding-top:10px;
+    border-bottom:1px solid #eeeeee;
+}
+
+.body-container li:last-child {
+    padding-bottom:10px;
+    padding-top:10px;
+    border-bottom:0;
+}
+
+.update-section {
+    background:#eeeeee;
+    padding-top:20px;
+    padding-bottom:20px;
+}
